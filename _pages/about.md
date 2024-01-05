@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
+title: <b>D</b>ata <b>S</b>cience <b>T</b>oolbox
 description: STAT1013 • CUHK
 logo: cuhk-logo.png
 news: true
@@ -29,6 +29,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 - Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix? -->
 
 **Prerequisites:**
+
 <!-- 
 - Prerequisites: 10601 introduction to machine learning
 - Minimum Grades: B in 10601
