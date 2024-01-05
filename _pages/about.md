@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>ata <b>S</b>cience <b>T</b>oolbox
-description: STAT1013 • CUHK
+description: CUHK • Department of Statistics • STAT1013 
 logo: cuhk-logo.png
 news: true
 ---
