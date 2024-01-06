@@ -75,6 +75,7 @@ plugins:
     - jekyll-email-protect
     - jekyll-paginate
     - jemoji
+    - jekyll-remote-theme
 
 # -----------------------------------------------------------------------------
 # Other settings
@@ -84,4 +85,5 @@ katex_version: "0.10.1"
 anchorjs_version: "3.2.2"
 latexjs_version: "0.11.1"
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: pages-themes/hacker@v0.2.0
