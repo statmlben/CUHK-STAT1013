@@ -2,8 +2,8 @@ Instructors:
     - name: Ben Dai
       email: bendai@cuhk.edu.hk
       url: https://www.bendai.org/
-      # office-hours: Mon & Wed, 3:20pm - 3:50pm
-      # image: staff/katef.jpeg
+      office-hours: Appointment Only
+      image: staff/bendai.png
 
 
 TAs:
@@ -11,7 +11,7 @@ TAs:
       email: youqiangao@link.cuhk.edu.hk
       url:
       # office-hours: Mon, Wed 10:00am - 11:00am
-      # location:  See Calendar Tab
+      location:  See Calendar Tab
       # image: staff/chung_youngseog_mld.jpg
       # zoom: # https://cmu.zoom.us/j/2310497456
 
@@ -19,7 +19,7 @@ TAs:
       email: jiantingfeng@link.cuhk.edu.hk
       url: 
       # office-hours: Tues 4:00pm - 5:00pm, Wed 6:00pm - 7:00pm
-      # location: See Calendar Tab
+      location: See Calendar Tab
       # image: staff/Athiya.jpeg
       # zoom: # https://cmu.zoom.us/j/2064967363
 
