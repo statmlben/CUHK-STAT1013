@@ -7,7 +7,7 @@ logo: cuhk-logo.png
 news: true
 ---
 
-This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Github, Colab, Jupyter notebook, markdown, git. The second is a conceptual introduction to A/B test and statistical predictive methods. The third is about Case Studies of A/B Test and machine learning predictive methods based on the Toolbox.
+This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Colab, Jupyter notebook, markdown, git. The second is a conceptual introduction to A/B test and statistical predictive methods. The third is about Case Studies of A/B Test and machine learning predictive methods based on the Toolbox.
 
 👌 **What you'll learn:**
 
@@ -21,9 +21,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 
 - **Calculus & Linear algebra**: inner product, matrix-vector product.
 - **Basic Statistics**: **STAT1011 level statistics**, basics of distributions, probabilities, conditional probability, mean, standard deviation, etc.
-- **Python**: basic grammar; Numpy, pandas, TensorFlow libraries
-**Prerequisites:**
-
+- **Python**: basic grammar; numpy, pandas
 
 ***
 
@@ -37,9 +35,11 @@ This course will give a conceptual introduction, implementation, and interpretat
 [![Homepage](https://img.shields.io/badge/CUHK-STAT1013-blueviolet)](https://www.bendai.org/CUHK-STAT1013/) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zDZdebMX_v-3H57Ar4_b8qkyKRs7cEqX?usp=sharing)
 
+**All students welcome**: we are happy to have audiences in our lecture.
+
 ***
 
-## 📋 <span style="color:#A04000"> Reference Textbooks </span> 
+- 📋 **Reference Textbooks** 
 
 The following textbooks are useful, but none are exactly same with our course.
 
@@ -48,3 +48,5 @@ The following textbooks are useful, but none are exactly same with our course.
 - Bruce, P. & Bruce, A. (2017) [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/). *O'Reilly Media, Inc.*
 
 - Kohavi, R., Tang, D., & Xu, Y. (2020). [Trustworthy online controlled experiments: A practical guide to A/B testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV). *Cambridge University Press*.
+
+***
