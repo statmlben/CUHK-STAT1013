@@ -39,7 +39,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 
 ***
 
-- 📋 **Reference Textbooks** 
+📋 **Reference Textbooks** 
 
 The following textbooks are useful, but none are exactly same with our course.
 

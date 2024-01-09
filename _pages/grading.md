@@ -4,6 +4,8 @@ title: Grading Principles and Guidelines
 permalink: /grading/
 ---
 
+👨‍💻 **Coursework:**
+
 - **Homeworks** (15%): There will be three homework. Please submit your homework by a well-documented *Jupyter Notebook*.
   - HW 1 (5%): Statistics in Python
   - HW 2 (5%): Markdown Documentation
@@ -17,4 +19,4 @@ permalink: /grading/
 
 📝 **Honesty**: Our course places very high importance on honesty in coursework submitted by students, and adopts a policy of [*zero tolerance*](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/index_page2.htm) on academic dishonesty. 
 
-📢 **(Late) submission**: Homework/projects are submitted via [BlackBoard](https://blackboard.cuhk.edu.hk/ultra), the quiz is submitted via [kaggle](https://www.kaggle.com/). We will *penalize* **10%** credits per 6 hours for the late submission.
+📢 **(Late) submission**: Homework/projects are submitted via [BlackBoard](https://blackboard.cuhk.edu.hk/ultra). We will *penalize* **10%** credits per 6 hours for the late submission.

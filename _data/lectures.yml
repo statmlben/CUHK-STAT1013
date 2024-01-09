@@ -1,10 +1,13 @@
 - date: W 01/10
   lecturer: 
   title: >
-    <strong>Introduction to Data Science Toolbox</strong>
-  slides: 
+    <strong>Overview of Data Science</strong>
+  slides: https://www.dropbox.com/scl/fi/5yeshacw0gyq2s5wdivue/S.pdf?rlkey=254xivke2ufwc7npmmk3gd4gq&dl=0
   video: 
   notes:
   readings:
+    - <a href="https://www.learnpython.org/" target="_blank">learnpython.org</a>
+    - <a href="https://docs.python.org/3/tutorial/" target="_blank">The Python Tutorial (official Python documentation)</a>
+    - <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank">Data Scientist: The Sexiest Job of the 21st Century</a>
   logistics:
 
