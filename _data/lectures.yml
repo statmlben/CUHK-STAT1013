@@ -2,12 +2,14 @@
   lecturer: 
   title: >
     <strong>Overview of Data Science</strong>
-  slides: https://www.dropbox.com/scl/fi/5yeshacw0gyq2s5wdivue/S.pdf?rlkey=254xivke2ufwc7npmmk3gd4gq&dl=0
+  slides: https://www.dropbox.com/scl/fi/gv1177bywfxha1jx7otzf/S.pdf?rlkey=rl5lmj4721t2e1r75428zfeh7&dl=0
   video: 
-  notes:
+  notes: 
   readings:
-    - <a href="https://www.learnpython.org/" target="_blank">learnpython.org</a>
-    - <a href="https://docs.python.org/3/tutorial/" target="_blank">The Python Tutorial (official Python documentation)</a>
-    - <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century" target="_blank">Data Scientist: The Sexiest Job of the 21st Century</a>
+    - <a href="https://www.learnpython.org/">learnpython.org</a>
+    - <a href="https://docs.python.org/3/tutorial/">The Python Tutorial (official Python documentation)</a>
+    - <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">Data Scientist - The Sexiest Job of the 21st Century</a>
+    - <a href="https://www.forbes.com/sites/bernardmarr/2021/02/22/the-4-biggest-trends-in-big-data-and-analytics-right-for-2021/?sh=3f5a3d417df8">The 4 Biggest Trends In Big Data And Analytics</a>
+    - <a href="https://www.mygreatlearning.com/blog/types-of-data/">Types Of Data</a>
   logistics:
 
