@@ -44,9 +44,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 The following textbooks are useful, but none are exactly same with our course.
 
 - VanderPlas, J. (2016). [Python data science handbook: Essential tools for working with data](https://jakevdp.github.io/PythonDataScienceHandbook/). *O'Reilly Media, Inc.*
-
 - Bruce, P. & Bruce, A. (2017) [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/). *O'Reilly Media, Inc.*
-
 - Kohavi, R., Tang, D., & Xu, Y. (2020). [Trustworthy online controlled experiments: A practical guide to A/B testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV). *Cambridge University Press*.
 
 ***
