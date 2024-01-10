@@ -7,11 +7,11 @@ logo: cuhk-logo.png
 news: true
 ---
 
-This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Colab, Jupyter notebook, markdown, git. The second is a conceptual introduction to A/B test. The third is about Case Studies of A/B Test based on the Toolbox.
+This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Colab, Jupyter notebook, markdown. The second is a conceptual introduction to A/B test. The third is about Case Studies of A/B Test based on the Toolbox.
 
 👌 **What you'll learn:**
 
-- Understand principles behind statistical inference and statistical machine learning methods;
+- Understand principles behind statistical inference and A/B test;
 - Familiar with Data Science Toolbox: Python (numpy, pandas, seaborn, sklearn), Colab; Jupyter notebook, Markdown;
 - Analyze continuous and categorical data using statistics, Python programming based on Colab and software as appropriate;
 - Ability in using advanced Python tools to describe, summarize, and visualize dataset;
