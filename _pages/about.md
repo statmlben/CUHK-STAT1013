@@ -7,7 +7,7 @@ logo: cuhk-logo.png
 news: true
 ---
 
-This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Colab, Jupyter notebook, markdown, git. The second is a conceptual introduction to A/B test and statistical predictive methods. The third is about Case Studies of A/B Test and machine learning predictive methods based on the Toolbox.
+This course will give a conceptual introduction, implementation, and interpretation of the data scientist’s toolbox in practice. There are three components to this course. The first is a practical introduction to the tools that will be used in the project like Python, Colab, Jupyter notebook, markdown, git. The second is a conceptual introduction to A/B test. The third is about Case Studies of A/B Test based on the Toolbox.
 
 👌 **What you'll learn:**
 
