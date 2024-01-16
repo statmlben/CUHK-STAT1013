@@ -17,10 +17,11 @@
   lecturer: 
   title: >
     <strong>Numpy, Pandas, DataFrame</strong>
-  slides: 
+  slides: https://www.dropbox.com/scl/fi/4eynf2zofoo1w7b4c5x5l/note.pdf?rlkey=avfjitwpo0trnotypc4ymejf4&dl=0
   video: 
-  notes: https://www.dropbox.com/scl/fi/gv1177bywfxha1jx7otzf/S.pdf?rlkey=rl5lmj4721t2e1r75428zfeh7&dl=0
+  notes: 
   readings:
+    - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
     - <a href="https://www.datacamp.com/community/tutorials/python-numpy-tutorial">"Numpy Quickstart Tutorial" by DataCamp</a>
     - <a href="https://numpy.org/doc/stable/user/absolute_beginners.html">"Introduction to Numpy" from the Numpy User Guide</a>
     - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html">"10 minutes to Pandas" by Pandas</a>
