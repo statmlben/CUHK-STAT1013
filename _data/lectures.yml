@@ -4,7 +4,7 @@
     <strong>Overview of Data Science</strong>
   slides: https://www.dropbox.com/scl/fi/gv1177bywfxha1jx7otzf/S.pdf?rlkey=rl5lmj4721t2e1r75428zfeh7&dl=0
   video: 
-  notes: 
+  notes: https://colab.research.google.com/drive/1UJy-BMxOUHuRqCGu_ysifgSmp_RDWCJ5?usp=sharing
   readings:
     - <a href="https://www.learnpython.org/">learnpython.org</a>
     - <a href="https://docs.python.org/3/tutorial/">The Python Tutorial (official Python documentation)</a>
@@ -19,7 +19,8 @@
     <strong>Numpy and Pandas</strong>
   slides:
   video: 
-  notes: https://gocuhk-my.sharepoint.com/personal/bendai_cuhk_edu_hk/_layouts/15/Doc.aspx?sourcedoc={1198804d-077a-49d2-955e-d9e95c684a03}&action=edit&wd=target%28STAT1013-note.one%7Cc835c2cf-477e-a14e-9f57-b4128429b358%2FNumpy%20and%20Pandas%7Cf7813cda-24b9-d845-8536-65df6ca56616%2F%29&wdorigin=703
+  notes: 
+  annotated: https://gocuhk-my.sharepoint.com/personal/bendai_cuhk_edu_hk/_layouts/15/Doc.aspx?sourcedoc={1198804d-077a-49d2-955e-d9e95c684a03}&action=edit&wd=target%28STAT1013-note.one%7Cc835c2cf-477e-a14e-9f57-b4128429b358%2FNumpy%20and%20Pandas%7Cf7813cda-24b9-d845-8536-65df6ca56616%2F%29&wdorigin=703
   readings:
     - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
     - <a href="https://www.datacamp.com/community/tutorials/python-numpy-tutorial">"Numpy Quickstart Tutorial" by DataCamp</a>
@@ -37,7 +38,8 @@
     <strong>Statistics in Python</strong>
   slides:
   video: 
-  notes: https://gocuhk-my.sharepoint.com/personal/bendai_cuhk_edu_hk/_layouts/15/Doc.aspx?sourcedoc={1198804d-077a-49d2-955e-d9e95c684a03}&action=edit&wd=target%28STAT1013-note.one%7Cc835c2cf-477e-a14e-9f57-b4128429b358%2FStatistics%20in%20Python%7C93422d6e-f766-b245-a3e9-d47a4b3eb2ae%2F%29&wdorigin=703
+  notes: 
+  annotated: https://gocuhk-my.sharepoint.com/personal/bendai_cuhk_edu_hk/_layouts/15/Doc.aspx?sourcedoc={1198804d-077a-49d2-955e-d9e95c684a03}&action=edit&wd=target%28STAT1013-note.one%7Cc835c2cf-477e-a14e-9f57-b4128429b358%2FStatistics%20in%20Python%7C93422d6e-f766-b245-a3e9-d47a4b3eb2ae%2F%29&wdorigin=703
   readings:
     - <a href="https://www.galtonboard.com/probabilityexamplesinlife">Examples of Normal Distribution and Probability In Every Day Life</a>
     - <a href="https://www.probabilitycourse.com/">Introduction to probability, statistics, and random processes</a>
