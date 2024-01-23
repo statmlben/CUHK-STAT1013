@@ -11,7 +11,7 @@ permalink: /grading/
   - HW 2 (5%): Markdown Documentation
   - HW 3 (5%): A/B Test Exercise
 
-- **InClass Quiz** (coding and exercise) (30%): Implement statistics and Basic Python programming
+- **InClass Quiz** (coding and exercise) (30%): Implement statistics and Basic Python programming (during the final lecture of the semester)
 
 - **Final project / Essay** (55%): A full data analysis provided in form of pdf report and Jupyter notebook. (1) An executable notebook containing the performed analysis on the data; (2) A technique report includes the (i) A/B test you used (ii) result analysis
 
