@@ -64,10 +64,10 @@ title: Schedule
             <!-- | video -->
             {% endif %}
             {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
+              <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% endif %}
-            {% if lecture.notes2 %}
-              | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
+            {% if lecture.pynb %}
+              | <a href="{{ lecture.pynb }}" target="_blank">pynb</a>
             {% endif %}
         ]
     </td>
