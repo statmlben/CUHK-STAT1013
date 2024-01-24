@@ -19,7 +19,7 @@
     <strong>Numpy and Pandas</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/16bAC8D0Xwe29ow1Urw-Fk7tVl4I7ClGb?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
   readings:
     - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
@@ -38,7 +38,7 @@
     <strong>Statistics in Python</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1F5lsvEyR3pHRRdmVcLbSQWZkXttrG4yz?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
   readings:
     - <a href="https://www.galtonboard.com/probabilityexamplesinlife">Examples of Normal Distribution and Probability In Every Day Life</a>
