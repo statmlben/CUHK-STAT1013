@@ -57,6 +57,7 @@
   pynb: 
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
   readings:
+    - <a href="https://elitedatascience.com/python-seaborn-tutorial">The Ultimate Python Seaborn Tutorial</a>
     <li><a href="https://seaborn.pydata.org/introduction.html" target="_blank">Introduction to Seaborn</a> - An official introduction to Seaborn, covering its strengths and how to get started.</li>
     <li><a href="https://realpython.com/python-seaborn-tutorial/" target="_blank">Python Seaborn Tutorial for Beginners</a> - This tutorial by Real Python covers the basics and some advanced features of Seaborn.</li>
     <li><a href="https://towardsdatascience.com/data-visualization-using-seaborn-fc24db95a850" target="_blank">Data Visualization Using Seaborn</a> - An article on Towards Data Science that walks you through Seaborn's features with examples.</li>
