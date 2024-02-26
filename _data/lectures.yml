@@ -100,4 +100,22 @@
     - <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
     - <a href="https://hackmd.io/">HackMD - Collaborative Markdown Knowledge Base</a>
 
-  logistics: <span class="event">Proj-Part A <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/HJtVDzi6s" target="_blank">[HackMD link]</a> <a href="https://colab.research.google.com/drive/1eJA7A1H18CutVMIB5qRBwixL1275KhVY?usp=sharing" target="_blank">[Toy example]</a>  (due Feb 28) </span>
+  logistics: <span class="event">Proj-Part A <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/HJtVDzi6s" target="_blank">[HackMD link]</a> <a href="https://colab.research.google.com/drive/1eJA7A1H18CutVMIB5qRBwixL1275KhVY?usp=sharing" target="_blank">[Toy example]</a>  (due Mar 06) </span>
+
+
+- date: W 02/28
+  lecturer: 
+  title: >
+    <strong>ChatGPT and AIGC Tools</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  readings:
+    - <a href="https://chat.openai.com/">ChatGPT</a>
+    - <a href="https://platform.openai.com/examples">Prompt examples</a>
+    - <a href="https://doc.clickup.com/9007160203/d/h/8cdwpwb-443/f4e90b2602aea72">The Ultimate AI Tool Kit</a>
+    - <a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a>
+    - <a href="https://github.com/features/copilot">copilot | GitHub</a>
+    
+  logistics:
