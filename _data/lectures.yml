@@ -126,3 +126,20 @@
     <strong> 📖 Reading Week </strong> <br> <br>
     <strong> No Classes </strong>
   logistics:
+
+
+- date: W 03/13
+  lecturer: 
+  title: >
+    <strong>LLN and CLT</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  readings:
+    - <a href="https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php">Chapter 7 | Introduction to Probability, Statistics, and Random Processes</a>
+    - <a href="https://python-bloggers.com/2020/11/law-of-large-numbers-and-the-central-limit-theorem-with-python/">Law of Large Numbers and the Central Limit Theorem (With Python)</a>
+    - <a href="https://medium.com/@smertatli/everything-you-need-to-know-about-law-of-large-numbers-and-central-limit-theorem-6b02cb4f52f6">Everything You Need To Know About Law of Large Numbers and Central Limit Theorem | Medium</a>
+    - <a href="https://julia.quantecon.org/tools_and_techniques/lln_clt.html">LLN and CLT | Quantitative Economics with Julia</a>
+
+  logistics:
