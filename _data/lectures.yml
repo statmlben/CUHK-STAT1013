@@ -143,3 +143,20 @@
     - <a href="https://julia.quantecon.org/tools_and_techniques/lln_clt.html">LLN and CLT | Quantitative Economics with Julia</a>
 
   logistics:
+
+
+- date: W 03/20
+  lecturer: 
+  title: >
+    <strong>A/B Test I</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  readings:
+    - <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">A/B Testing (Wikipedia)</a>
+    - <a href="https://www.optimizely.com/optimization-glossary/ab-testing/" target="_blank">What is A/B Testing? (Optimizely)</a>
+    - <a href="https://blog.hubspot.com/marketing/a-b-testing-guide" target="_blank">A/B Testing Guide (HubSpot)</a>
+    - <a href="https://support.google.com/optimize/answer/6211938?hl=en" target="_blank">A/B Testing with Google Optimize (Google Analytics)</a>
+    - <a href="https://www.vwo.com/ab-testing/" target="_blank">A/B Testing Resources (VWO)</a>
+  logistics:
