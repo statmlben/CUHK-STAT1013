@@ -134,7 +134,7 @@
     <strong>LLN and CLT</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1iXcQAVe-ht-LF18MeoddkAWy6ybDVkD-?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
   readings:
     - <a href="https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php">Chapter 7 | Introduction to Probability, Statistics, and Random Processes</a>
@@ -161,3 +161,19 @@
     - <a href="https://www.vwo.com/ab-testing/" target="_blank">A/B Testing Resources (VWO)</a>
   
   logistics: <span class="event">HW2 out <a href="https://colab.research.google.com/drive/1hzWqTCdwPbqJNXk1bIbhnT62SPaDmjos?usp=sharing" target="_blank">[colab link]</a> (due Mar 27) </span>
+
+- date: W 03/27
+  lecturer: 
+  title: >
+    <strong>A/B Test II</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  readings:
+    - <a href="https://pos3713.github.io/notes/hypothesis-testing.html" target="_blank">Null Hypthesis</a>
+    - <a href="https://statproofbook.github.io/P/norm-t.html" target="_blank">Proof - Relationship between normal distribution and t-distribution</a>
+    - <a href="https://web.northeastern.edu/dummit/teaching_su21_3081/3081_lecture_24_two_sample_t_tests.pdf" target="_blank">Two Sample T-test with math proof (northeastern)</a>
+    - <a href="https://stats.stackexchange.com/questions/16921/how-to-understand-degrees-of-freedom" target="_blank">How to understand degrees of freedom?</a>
+  
+  logistics: 
