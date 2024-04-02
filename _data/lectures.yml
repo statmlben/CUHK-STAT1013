@@ -125,7 +125,7 @@
   quiz: >
     <strong> 📖 Reading Week </strong> <br> <br>
     <strong> No Classes </strong>
-  logistics:
+  logistics: <span class="deadline">Proj P-A due </span>
 
 
 - date: W 03/13
@@ -176,7 +176,7 @@
     - <a href="https://web.northeastern.edu/dummit/teaching_su21_3081/3081_lecture_24_two_sample_t_tests.pdf" target="_blank">Two Sample T-test with math proof (northeastern)</a>
     - <a href="https://stats.stackexchange.com/questions/16921/how-to-understand-degrees-of-freedom" target="_blank">How to understand degrees of freedom?</a>
   
-  logistics: 
+  logistics: <span class="deadline">HW2 due </span>
 
 - date: W 04/03
   lecturer: 
@@ -196,3 +196,21 @@
   logistics: <span class="event">HW3 out <a href="https://colab.research.google.com/drive/1Jv6UPIY1T3-BIowRw6p2TD-NomF03w8J?usp=sharing" target="_blank">[colab link]</a> (due Apr 17) </span>
 
 
+# - date: W 04/10
+#   lecturer: 
+#   title: >
+#     <strong>A/B Test Project</strong>
+#   slides:
+#   video: 
+#   pynb: 
+#   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+#   readings:
+
+#   logistics: 
+
+# - date: W 04/17
+#   lecturer:
+#   quiz: >
+#     <strong> 📖 Final Quiz </strong> <br> <br>
+#     <strong> No Classes </strong>
+#   logistics: <span class="deadline">Proj P-A due </span>
