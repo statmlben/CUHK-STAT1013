@@ -177,3 +177,20 @@
     - <a href="https://stats.stackexchange.com/questions/16921/how-to-understand-degrees-of-freedom" target="_blank">How to understand degrees of freedom?</a>
   
   logistics: 
+
+- date: W 04/03
+  lecturer: 
+  title: >
+    <strong>A/B Test III</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  readings:
+    - <a href="https://www.amazon.com/Python-Data-Analysis-Wes-McKinney/dp/1491957662"><em>Python for Data Analysis</em></a>
+    - <a href="https://www.amazon.com/Testing-Most-Powerful-Clicks-Customers-ebook/dp/B00VQYVUJ6"><em>A/B Testing: The Most Powerful Way to Turn Clicks into Customers</em></a>
+    - <a href="https://www.randalolson.com/books/statistical-methods-for-ab-testing/"><em>Statistical Methods for A/B Testing</em></a>
+    - <a href="https://www.coursera.org/learn/experimentation"><em>Experimentation for Data Science</em></a>
+    - <a href="https://towardsdatascience.com/a-b-testing-with-python-cdf0956f06f3"><em>A/B Testing with Python</em></a>
+  
+  logistics: 
