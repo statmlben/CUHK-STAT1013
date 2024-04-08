@@ -210,7 +210,7 @@
 - date: W 04/17
   lecturer:
   quiz: >
-    <strong> 📖 Final Quiz </strong> <br> <br>
-    <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> <br> <br>
-    <strong> LSB G25 (Even-numbered IDs) | LSB 125 (Odd-numbered IDs) </strong>
+    <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br>
+    LSB G25 (Even-numbered IDs) <br> 
+    LSB 125 (Odd-numbered IDs) <br>
   logistics: <span class="deadline"> HW3 due </span>
