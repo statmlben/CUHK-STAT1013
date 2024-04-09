@@ -204,6 +204,9 @@
   pynb: 
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
   readings: 
+    - <a href="https://www.kaggle.com/code/babyoda/a-b-testing-in-practice">A/B Testing in Practice</a>
+    - <a href="https://github.com/creminz/python-ab-testing">A/B Testing using Python (creminz GitHub Repository)</a>
+    - <a href="https://www.datacamp.com/community/tutorials/ab-testing-python">A/B Testing Tutorial with Python (DataCamp)</a>
 
   logistics: <span class="event">Proj-Part B <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/ryMNYiMM3" target="_blank">[HackMD link]</a> (due May 01) </span>
 
