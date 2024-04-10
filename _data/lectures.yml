@@ -207,6 +207,7 @@
     - <a href="https://www.kaggle.com/code/babyoda/a-b-testing-in-practice">A/B Testing in Practice</a>
     - <a href="https://github.com/creminz/python-ab-testing">A/B Testing using Python (creminz GitHub Repository)</a>
     - <a href="https://www.datacamp.com/community/tutorials/ab-testing-python">A/B Testing Tutorial with Python (DataCamp)</a>
+    - <a href="https://kokes.github.io/nbviewer.js/viewer.html">nbviewer.js</a>
 
   logistics: <span class="event">Proj-Part B <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/ryMNYiMM3" target="_blank">[HackMD link]</a> (due May 01) </span>
 
@@ -214,7 +215,7 @@
   lecturer:
   quiz: >
     <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br> <br>
-    - LSB G25 (Even-numbered IDs) <br> 
-    - LSB 125 (Odd-numbered IDs) <br>
+    <li> LSB G25 (Even-numbered IDs) </li>
+    <li> LSB 125 (Odd-numbered IDs) </li>  
 
   logistics: <span class="deadline"> HW3 due </span>
