@@ -4,8 +4,10 @@
     <strong>Overview of Data Science</strong>
   slides: https://www.dropbox.com/scl/fi/gv1177bywfxha1jx7otzf/S.pdf?rlkey=rl5lmj4721t2e1r75428zfeh7&dl=0
   video: 
+  notes: 
   pynb: https://colab.research.google.com/drive/1UJy-BMxOUHuRqCGu_ysifgSmp_RDWCJ5?usp=sharing
   readings:
+    - <a href="https://kokes.github.io/nbviewer.js/viewer.html">nbviewer.js</a>
     - <a href="https://www.learnpython.org/">learnpython.org</a>
     - <a href="https://docs.python.org/3/tutorial/">The Python Tutorial (official Python documentation)</a>
     - <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">Data Scientist - The Sexiest Job of the 21st Century</a>

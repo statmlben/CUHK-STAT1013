@@ -19,4 +19,4 @@ permalink: /grading/
 
 📝 **Honesty**: Our course places very high importance on honesty in coursework submitted by students, and adopts a policy of [*zero tolerance*](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/index_page2.htm) on academic dishonesty. 
 
-📢 **(Late) submission**: Homework/projects are submitted via [BlackBoard](https://blackboard.cuhk.edu.hk/ultra). We will *penalize* **10%** credits per 6 hours for the late submission.
+📢 **(Late) submission**: Homework/projects are submitted via [BlackBoard](https://blackboard.cuhk.edu.hk/ultra). We will impose a **penalty** of **10%** of the total credits for every **12-hour** delay in submission, up to a maximum of 60% of the total credits).
