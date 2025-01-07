@@ -30,7 +30,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 <!-- - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"} -->
 - 💻 **HW submission:** [BlackBoard](https://blackboard.cuhk.edu.hk/){:target="\_blank"}
-- ⌨️ **colab**: [notebook](https://colab.research.google.com/drive/1zDZdebMX_v-3H57Ar4_b8qkyKRs7cEqX?usp=sharing) or click `Open in Colab`
+- ⌨️ **colab**: [notebook](https://colab.research.google.com/drive/1DlQFQPktEtDLa8AxdjU8Oc0j1R5ph1Wt?usp=sharing) or click `Open in Colab`
 
 [![Homepage](https://img.shields.io/badge/CUHK-STAT1013-blueviolet)](https://www.bendai.org/CUHK-STAT1013/) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DlQFQPktEtDLa8AxdjU8Oc0j1R5ph1Wt?usp=sharing)
