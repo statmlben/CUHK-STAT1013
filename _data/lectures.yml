@@ -4,7 +4,7 @@
     <strong>Overview of Data Science</strong>
   slides: https://www.dropbox.com/scl/fi/gv1177bywfxha1jx7otzf/S.pdf?rlkey=rl5lmj4721t2e1r75428zfeh7&dl=0
   video: 
-  notes: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   pynb: https://colab.research.google.com/drive/1UJy-BMxOUHuRqCGu_ysifgSmp_RDWCJ5?usp=sharing
   readings:
     - <a href="https://kokes.github.io/nbviewer.js/viewer.html">nbviewer.js</a>
@@ -15,24 +15,24 @@
     - <a href="https://www.mygreatlearning.com/blog/types-of-data/">Types Of Data</a>
   logistics:
 
-# - date: W 01/17
-#   lecturer: 
-#   title: >
-#     <strong>Numpy and Pandas</strong>
-#   slides:
-#   video: 
-#   pynb: https://colab.research.google.com/drive/16bAC8D0Xwe29ow1Urw-Fk7tVl4I7ClGb?usp=sharing
-#   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
-#   readings:
-#     - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
-#     - <a href="https://www.datacamp.com/community/tutorials/python-numpy-tutorial">"Numpy Quickstart Tutorial" by DataCamp</a>
-#     - <a href="https://numpy.org/doc/stable/user/absolute_beginners.html">"Introduction to Numpy" from the Numpy User Guide</a>
-#     - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html">"10 minutes to Pandas" by Pandas</a>
-#     - <a href="https://learn.datacamp.com/courses/pandas-foundations">"Pandas From The Ground Up" by DataCamp</a>
-#     - <a href="https://tomaugspurger.github.io/modern-1-intro.html">"Modern Pandas" by Tom Augspurger</a>
-#     - <a href="https://numpy.org/doc/stable/user/index.html">Numpy User Guide</a>
-#     - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html">Pandas User Guide</a>
-#   logistics:
+- date: W 01/15
+  lecturer: 
+  title: >
+    <strong>Numpy and Pandas</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
+  readings:
+    - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
+    - <a href="https://www.datacamp.com/community/tutorials/python-numpy-tutorial">"Numpy Quickstart Tutorial" by DataCamp</a>
+    - <a href="https://numpy.org/doc/stable/user/absolute_beginners.html">"Introduction to Numpy" from the Numpy User Guide</a>
+    - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html">"10 minutes to Pandas" by Pandas</a>
+    - <a href="https://learn.datacamp.com/courses/pandas-foundations">"Pandas From The Ground Up" by DataCamp</a>
+    - <a href="https://tomaugspurger.github.io/modern-1-intro.html">"Modern Pandas" by Tom Augspurger</a>
+    - <a href="https://numpy.org/doc/stable/user/index.html">Numpy User Guide</a>
+    - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html">Pandas User Guide</a>
+  logistics:
 
 # - date: W 01/24
 #   lecturer: 
