@@ -19,9 +19,9 @@
   lecturer: 
   title: >
     <strong>Numpy</strong>
-  slides:
+  slides: 
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1P-FWCr0hIIsC1p7GbiZ5FN2zodT_ri2l?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://medium.com/@d.goglia/top-12-cheat-sheet-for-data-science-in-python-4bf685dc3f37">Top 12 Cheat Sheet for Data Science in Python</a>
@@ -34,9 +34,9 @@
   lecturer: 
   title: >
     <strong>Pandas</strong>
-  slides:
+  slides: 
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1RA3bzDOxZImETS8LKCGaXqkKGTLAmCMV?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html">"10 minutes to Pandas" by Pandas</a>
