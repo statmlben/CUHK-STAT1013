@@ -52,21 +52,21 @@
     <strong> No Classes </strong>
   logistics:
 
-# - date: W 01/24
-#   lecturer: 
-#   title: >
-#     <strong>Statistics in Python</strong>
-#   slides:
-#   video: 
-#   pynb: https://colab.research.google.com/drive/1F5lsvEyR3pHRRdmVcLbSQWZkXttrG4yz?usp=sharing
-#   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
-#   readings:
-#     - <a href="https://www.galtonboard.com/probabilityexamplesinlife">Examples of Normal Distribution and Probability In Every Day Life</a>
-#     - <a href="https://www.probabilitycourse.com/">Introduction to probability, statistics, and random processes</a>
-#     - <a href="https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html">scipy.stats Tutorial</a>
-#     - <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/06_calculate_statistics.html">Pandas - Calculate Statistics</a>
-#     - <a href="https://realpython.com/python-statistics/" target="_blank">Real Python - Statistics in Python</a>
-#   logistics:
+- date: W 02/05
+  lecturer: 
+  title: >
+    <strong>Statistics in Python</strong>
+  slides:
+  video: 
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
+  readings:
+    - <a href="https://www.galtonboard.com/probabilityexamplesinlife">Examples of Normal Distribution and Probability In Every Day Life</a>
+    - <a href="https://www.probabilitycourse.com/">Introduction to probability, statistics, and random processes</a>
+    - <a href="https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html">scipy.stats Tutorial</a>
+    - <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/06_calculate_statistics.html">Pandas - Calculate Statistics</a>
+    - <a href="https://realpython.com/python-statistics/" target="_blank">Real Python - Statistics in Python</a>
+  logistics:
 
 # - date: W 01/31
 #   lecturer: 
