@@ -29,7 +29,7 @@ This course will give a conceptual introduction, implementation, and interpretat
 - 🎒 **Lecture/Recitation Location:** Y.C. Liang Hall 103
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 <!-- - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"} -->
-- 💻 **HW submission:** [BlackBoard](https://blackboard.cuhk.edu.hk/){:target="\_blank"}
+- 💻 **HW submission:** [BlackBoard](https://blackboard.cuhk.edu.hk/)
 - ⌨️ **colab**: [notebook](https://colab.research.google.com/drive/1DlQFQPktEtDLa8AxdjU8Oc0j1R5ph1Wt?usp=sharing) or click `Open in Colab`
 
 [![Homepage](https://img.shields.io/badge/CUHK-STAT1013-blueviolet)](https://www.bendai.org/CUHK-STAT1013/) 
@@ -48,3 +48,14 @@ The following textbooks are useful, but none are exactly same with our course.
 - Kohavi, R., Tang, D., & Xu, Y. (2020). [Trustworthy online controlled experiments: A practical guide to A/B testing](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical-ebook/dp/B0845Y3DJV). *Cambridge University Press*.
 
 ***
+
+🗂️ **Open Source Datasets**
+
+- [Data.gov.hk](https://data.gov.hk/en-datasets)
+- [Mini-kaggle Datasets](https://github.com/MainakRepositor/Datasets)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+- [OpenML](https://www.openml.com/)
+- [Scikit-Learn Datasets](https://scikit-learn.org/stable/datasets/)
+- [Seaborn Data](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
+- [Pandas Data](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+- [Matplotlib Data](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
