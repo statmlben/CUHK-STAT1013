@@ -58,7 +58,7 @@
     <strong>Statistics in Python</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1MbMVbOL3Us5G7DdLvkEV8-zt4Ww0cBNx?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://www.galtonboard.com/probabilityexamplesinlife">Examples of Normal Distribution and Probability In Every Day Life</a>
@@ -74,8 +74,8 @@
     <strong>Data Visualization</strong>
   slides:
   video: 
-  pynb: https://colab.research.google.com/drive/1I-Yxlp5L0vFdzSywbf3YXn1j80-M3Mb3?usp=sharing
-  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Ek2AmBF6B9JJlV7Z6VxoSgMBWWmqYgn9J4AcLHCAstwymg
+  pynb: 
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://www.kaggle.com/code/mruczykij/women-children-first-titanic-ml-from-disaster">Women & children first! Titanic - ML from disaster</a>
     - <a href="https://elitedatascience.com/python-seaborn-tutorial">The Ultimate Python Seaborn Tutorial</a>
