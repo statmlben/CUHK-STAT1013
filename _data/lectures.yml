@@ -74,7 +74,7 @@
     <strong>Data Visualization</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1kt7V0uM2u3bm0kEjMIfyh_9fK-f8iE-H?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings: 
     - <a href="https://www.kaggle.com/code/mruczykij/women-children-first-titanic-ml-from-disaster">Women & children first! Titanic - ML from disaster</a>
@@ -91,7 +91,7 @@
     <strong>Monty Hall Problem</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1NZM4GWzzLCb-VogAYLnnzUoHZApEWqV-?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://www.amstat.org/asa/files/pdfs/stew-TheMontyHallProblem.pdf">The Monty Hall Problem - A Study - American Statistical Association</a>
