@@ -49,6 +49,12 @@ The following textbooks are useful, but none are exactly same with our course.
 
 ***
 
+🆓 **Free CUHK-Sci LLM Interface**
+
+- https://ai.sci.cuhk.edu.hk
+
+***
+
 🗂️ **Open Source Datasets**
 
 - [Data.gov.hk](https://data.gov.hk/en-datasets)
