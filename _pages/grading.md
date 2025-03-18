@@ -8,7 +8,7 @@ permalink: /grading/
 
 - **Homeworks** (15%): There will be three homework. Please submit your homework by a well-documented *Jupyter Notebook*.
   - HW 1 (5%): Statistics in Python
-  - HW 2 (5%): Markdown Documentation
+  - HW 2 (5%): Statistics in Python II
   - HW 3 (5%): A/B Test Exercise
 
 - **InClass Quiz** (coding and exercise) (30%): Implement statistics and Basic Python programming (during the final lecture of the semester) (**Lab Computer Only**)
