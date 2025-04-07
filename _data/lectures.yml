@@ -181,7 +181,7 @@
     <strong>A/B Test III</strong>
   slides:
   video: 
-  pynb: 
+  pynb: https://colab.research.google.com/drive/1-8he4RoNycmkmfcGjjXB355V6OL1coDm?usp=sharing
   notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
   readings:
     - <a href="https://www.amazon.com/Python-Data-Analysis-Wes-McKinney/dp/1491957662">Python for Data Analysis</a>
@@ -191,6 +191,23 @@
     - <a href="https://towardsdatascience.com/a-b-testing-with-python-cdf0956f06f3">A/B Testing with Python</a>
   
   logistics: <span class="event">HW3 out <a href="https://colab.research.google.com/drive/1zPp2Ezpy1Rt7Q--Erx1tUJNgJfQwUwJz?usp=sharing" target="_blank">[colab link]</a> (due Apr 09) </span>
+
+- date: W 04/09
+  lecturer: 
+  title: >
+    <strong>A/B Test IV</strong>
+  slides:
+  video: 
+  pynb: https://colab.research.google.com/drive/1yfpCEnXFP6fEuOvOT5XFsL5AknKdAE7g?usp=sharing
+  notes: https://gocuhk-my.sharepoint.com/:o:/g/personal/bendai_cuhk_edu_hk/Eq31FHljow5IvG9pkVtCNNkBipslvXd4Wmxeng0EtIvNIg?e=XUbraB
+  readings: 
+    - <a href="https://www.kaggle.com/code/babyoda/a-b-testing-in-practice">A/B Testing in Practice</a>
+    - <a href="https://github.com/creminz/python-ab-testing">A/B Testing using Python (creminz GitHub Repository)</a>
+    - <a href="https://www.datacamp.com/community/tutorials/ab-testing-python">A/B Testing Tutorial with Python (DataCamp)</a>
+    - <a href="https://kokes.github.io/nbviewer.js/viewer.html">nbviewer.js</a>
+
+  logistics: <span class="event">Proj-Part B <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/ryMNYiMM3" target="_blank">[HackMD link]</a> (due April 30) </span>
+
 
 
 # - date: W 03/20
