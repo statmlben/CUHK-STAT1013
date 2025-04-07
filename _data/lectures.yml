@@ -208,8 +208,6 @@
 
   logistics: <span class="event">Proj-Part B <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/ryMNYiMM3" target="_blank">[HackMD link]</a> (due April 30) </span>
 
-
-
 # - date: W 03/20
 #   lecturer: 
 #   title: >
@@ -276,9 +274,9 @@
 
 #   logistics: <span class="event">Proj-Part B <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/ryMNYiMM3" target="_blank">[HackMD link]</a> (due May 01) </span>
 
-# - date: W 04/17
-#   lecturer:
-#   quiz: >
-#     <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br> <br>
+- date: W 04/17
+  lecturer:
+  quiz: >
+    <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br> <br>
 
-#   logistics: <span class="deadline"> HW3 due </span>
+  logistics: 
