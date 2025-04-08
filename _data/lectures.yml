@@ -99,7 +99,7 @@
     - <a href="http://mathworld.wolfram.com/MontyHallProblem.html">The Monty Hall Problem Explained - Mathworld</a>
     - <a href="https://www.scientificamerican.com/article/the-monty-hall-problem-and-beyond/">Understanding the Monty Hall Problem - Scientific American</a>
 
-  logistics: <span class="deadline">HW1 due </span>
+  logistics: 
 
 - date: W 02/26
   lecturer: 
@@ -277,5 +277,5 @@
 - date: W 04/16
   lecturer:
   quiz: >
-    <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br> <br>
+    <strong> 📖 Final Quiz <a href="https://hackmd.io/@cTHE1QvtQuKo2qiAA5u0dA/B11N0QbgC" target="_blank">[Guideline]</a> </strong> <br>  <br> LSB G25 (Even-numbered IDs) <br> LSB 125 (Odd-numbered IDs) <br>
   logistics: 
