@@ -13,7 +13,7 @@ permalink: /grading/
 
 - **InClass Quiz** (coding and exercise) (30%): Implement statistics and Basic Python programming (during the final lecture of the semester) (**Lab Computer Only**)
 
-- **Final project / Essay** (55%): A full data analysis provided in form of pdf report and Jupyter notebook. (1) An executable notebook containing the performed analysis on the data; (2) A technique report includes the (i) A/B test you used (ii) result analysis
+- **Final project / Essay** (55%): A full data analysis provided in form of Jupyter notebook. (1) An executable notebook containing the performed analysis on the data; (2) A technique report includes the (i) A/B test you used (ii) result analysis
 
 <!-- 👨🏻‍🤝‍👨🏾 **Collaboration policy**: we admit you to form a group to finish your real application projects. The number of group members should be smaller or equal than 2. The contribution of each member should be clearly stated in the final report. You will receive 5% points (of the project) if you work solo to projects. -->
 
